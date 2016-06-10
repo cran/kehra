@@ -1,0 +1,14 @@
+2f2b6f7467811251751ff5647764380c *DESCRIPTION
+280bb71540756aa391b257c79a57d7ee *NAMESPACE
+5b237581363c873dab4573ff9e2f1ee0 *R/fillMissingValues.R
+44be1b104154611b27dab0e3203b189a *R/getSeason.R
+e8f6ce4c170d4b4e494261272690b07c *R/pointInspection.R
+a35b3e2c60c5425558d3d9e1a24183c0 *R/windDirection.R
+91ff31f9c413d8260fd837b77c153359 *R/windSpeed.R
+38c8978ef38f3e910a3a84aa232bdbc5 *build/partial.rdb
+d97fdf5e25ff4acd5261818c10cd4de5 *man/fillMissingValues.Rd
+50f74dffce1030837d5ebfbcd42c5623 *man/getSeason.Rd
+73725fca9e91fe90e590a13e621e0d5c *man/kehra-package.Rd
+bd380e675cd6aff87706323019d74b12 *man/pointInspection.Rd
+3a7a7dfa18c86188c7ecaa5e4976cf6b *man/windDirection.Rd
+a54f39a5feb22ebc8a4c66b8b0eac3c6 *man/windSpeed.Rd
